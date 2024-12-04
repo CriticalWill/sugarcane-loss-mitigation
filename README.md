@@ -44,7 +44,8 @@ American sugarcane production began its initial decline during the 1950s and has
 
 
 
-## **KEYWORDS:** sugarcane, agriculture, Louisiana, Remote Sensing, Geographic Information Systems, crop monitoring, vegetation index, regression
+### **KEYWORDS:** <br>
+***sugarcane, agriculture, Louisiana, Remote Sensing, Geographic Information Systems, crop monitoring, vegetation index, machine learning***
  
 
 ## 1.	Introduction
