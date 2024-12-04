@@ -1,5 +1,4 @@
 # sugarcane-loss-mitigation
-A proposed study of tropical cyclone effects on sugarcane.
 <hr>
 
 # **Tropical Cyclone Effects on Sugarcane: A Multivariate Analysis for Assessing Potential Mitigation Strategies**
