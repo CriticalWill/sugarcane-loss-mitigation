@@ -1,5 +1,3 @@
-# sugarcane-loss-mitigation
-<hr>
 
 # **Tropical Cyclone Effects on Sugarcane: A Multivariate Analysis for Assessing Potential Mitigation Strategies**
 
@@ -36,16 +34,17 @@ Dr. Joseph Kruger
 
 A proposed thesis submitted in partial fulfillment of the degree of Master of Science within the Department of Earth and Space Sciences at Lamar University in Beaumont, Texas. 
 
-## **ABSTRACT**
 </br></br>
+## **ABSTRACT**
 
 American sugarcane production began its initial decline during the 1950s and has been hastened in recent decades by many factors including political and environmental challenges. To prevent, or at least slow, further U.S. dependence on foreign sources of sugar by retaining and perhaps expanding current sugarcane acreage while maintaining crop diversity in the country’s sugar output, the focus of this study uses modern remote sensing (RS) and Geographic Information Systems (GIS) analysis to provide insights to farmers, insurers, policymakers, and other affected stakeholders to assess crop damage from tropical cyclones that frequently reduce yields to harvests caused by lodging and flooding associated with these extreme weather events. By quantifying damaged acreage amounts and distances from windbreaks with associated windspeeds, flooding damage proximities in relation to drainage with drainage types, and recovery periods or acreage of total loss, this study provides essential data for decision makers to develop and/or implement mitigation of future losses caused by these types of wind and rain events. 
 
 
 
-### **KEYWORDS:** <br>
+#### **KEYWORDS:** <br>
 ***sugarcane, agriculture, Louisiana, Remote Sensing, Geographic Information Systems, crop monitoring, vegetation index, machine learning***
- 
+
+</br></br>
 
 ## 1.	Introduction
 Sugar production in the United States is wrought with political complexity and strongly held views regarding its trade and domestic subsidies (Colin Grabow 2018). Despite U.S. sugar policy efforts, sugarcane has become a fast-dwindling commodity in the country with only two U.S. States remaining in production of the crop. With the closure of the last sugar mill in Texas in February 2024 (Ron Sterk 2024) following Hawaii’s cessation of production in 2016, future production of the crop must be closely monitored to avoid losing the few remaining growers. While sugarcane has a long history as a profitable crop, alternative sweeteners along with other sources for sugar such as sugar beets, high fructose corn syrup (HFCS), etc., combined with competitive labor markets in other countries have challenged the industry in America.
@@ -75,7 +74,7 @@ To first determine the extent of potentially damaged sugarcane, tropical cycloni
 
 ### 2.1.	 Initial Assessment
 By cross referencing the hurricane data with known sugarcane producing Parishes within the State (American Sugar Cane League, 2019), impact areas were assessed initially using the National Agricultural Statistics Service (NASS) cropland data layer (CDL) (U.S. Dept of Agriculture, 2021) and ultimately with visual inspection using Google’s Earth Engine (https://developers.google.com/earth-engine/datasets) available through the company’s free Google Earth Pro GIS platform to isolate chosen study areas to determine available scene coverages for impact times with the best available sensor platforms.</br>
-###### Figure 1: Tropical cyclone tracks across sugarcane producing Parishes of Louisiana since 1985
+###### *Figure 1: Tropical cyclone tracks across sugarcane producing Parishes of Louisiana since 1985*
 ![A map depicting tropical cyclone tracks across sugarcane producing Parishes of Louisiana since 1985](<https://github.com/CriticalWill/sugarcane-loss-mitigation/blob/main/StudyAreaSelection.png?raw=true>)
 
 ### 2.2.	Final Selection
